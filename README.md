@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **AWS**
 
-- 🌱 I’m currently learning **Javascript,ReactJS,DSA**
+- 🌱 I’m currently learning **Javascript,DSA**
 
 - 📫 How to reach me **janakiraman21052004@gmail.com**
 
